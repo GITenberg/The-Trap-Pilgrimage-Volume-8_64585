@@ -1,0 +1,31 @@
+_repo: The-Trap-Pilgrimage-Volume-8_64585
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Richardson, Dorothy M. (Dorothy Miller)
+    aliases:
+    - Richardson, Dorothy Miller
+    - Odle, Dorothy Miller Richardson
+    - Richardson, D. M. (Dorothy Miller)
+    birthdate: 1873
+    deathdate: 1957
+    gutenberg_agent_id: '1090'
+    url: http://www.gutenberg.org/2009/agents/1090
+    wikipedia: https://en.wikipedia.org/wiki/Dorothy_Richardson
+description: ''
+gutenberg_issued: '2021-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64585'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Autobiographical fiction'
+- !lcc 'PR'
+- !lcsh 'Women -- England -- Fiction'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- GITenberg
+title: 'The Trap: Pilgrimage, Volume 8'
+url: http://www.gutenberg.org/ebooks/64585
